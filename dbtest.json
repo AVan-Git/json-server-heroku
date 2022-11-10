@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "roy",
+      "location": "india",
+      "linkImg": "https://cdn-icons-png.flaticon.com/512/219/219983.png"
+    },
+    {
+      "id": 2,
+      "name": "sam",
+      "location": "wales",
+      "linkImg": "https://i.pinimg.com/736x/8b/16/7a/8b167af653c2399dd93b952a48740620.jpg"
+    },
+    {
+      "id": 3,
+      "name": "nay",
+      "location": "campuchia",
+      "linkImg": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
+    }
+  ]
+}
